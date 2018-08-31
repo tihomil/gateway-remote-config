@@ -9,8 +9,8 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 45,15920632
-    "ref_longitude": 18,70333713
+    "ref_latitude": 45,15920
+    "ref_longitude": 18,70333
     "ref_altitude": 115
     "contact_email": "tihowireless@gmail.com",
     "description": "TTN-Grwireless"
